@@ -1,0 +1,763 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"extr",
+				"extractNumberArray"
+			],
+			[
+				"stro",
+				"strokeWidth"
+			],
+			[
+				"x",
+				"xDimension"
+			],
+			[
+				"creat",
+				"creationFunctions"
+			],
+			[
+				"get",
+				"getPointOnEllipse"
+			],
+			[
+				"cre",
+				"creationFunctions"
+			],
+			[
+				"stroke",
+				"stroke-width"
+			],
+			[
+				"defa",
+				"defaultStyle"
+			],
+			[
+				"append",
+				"appendChild"
+			],
+			[
+				"triange",
+				"triangleClass"
+			],
+			[
+				"obje",
+				"objectifyArguments"
+			],
+			[
+				"cli",
+				"clientX"
+			],
+			[
+				"moch",
+				"mochaPhantomJS"
+			],
+			[
+				"bind",
+				"bindEqual"
+			],
+			[
+				"add",
+				"addUtilityMethods"
+			],
+			[
+				"define",
+				"defineTags"
+			],
+			[
+				"element",
+				"elementSelector"
+			],
+			[
+				"eleme",
+				"elementSelector"
+			],
+			[
+				"group",
+				"group_relations"
+			],
+			[
+				"gr",
+				"group_relations"
+			],
+			[
+				"game",
+				"game_sources"
+			],
+			[
+				"year",
+				"year_bucket"
+			],
+			[
+				"data_",
+				"data_game_year"
+			],
+			[
+				"colum",
+				"column-end"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"main",
+				"main-navigation-text"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"main-",
+				"main-navigation-list"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"max",
+				"siteMaxWidth"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backgrd",
+				"background-attachment"
+			],
+			[
+				"a",
+				"text-align"
+			],
+			[
+				"font",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"package ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"jshint",
+				"JSHint: Set Linting Preferences"
+			],
+			[
+				"js",
+				"JSHint"
+			],
+			[
+				"package re",
+				"Package Control: Remove Package"
+			],
+			[
+				"jsh",
+				"JSHint: Set Linting Preferences"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"syn",
+				"Set Syntax: JSON"
+			],
+			[
+				"jshi",
+				"JSHint: Set Linting Preferences"
+			],
+			[
+				"jsint",
+				"JSHint: Set `node` Path"
+			],
+			[
+				"jshint cle",
+				"JSHint: Clear Annotations"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Channel"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"syntax plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ista",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"set h",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn json",
+				"Set Syntax: JSON"
+			],
+			[
+				"prefen",
+				"Preferences: Browse Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"preferen",
+				"Preferences: Browse Packages"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"set ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pre",
+				"Preferences: Settings - User"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 111.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/spaxe/dev/i-made-this-game-because"
+	],
+	"file_history":
+	[
+		"/Users/spaxe/dev/i-made-this-game-because/corpus-made-because.json",
+		"/Users/spaxe/dev/bvg.js/demo/003-triswim.js",
+		"/Users/spaxe/dev/bvg.js/demo/002-poly.js",
+		"/Users/spaxe/dev/bvg.js/test/basic.unittests.js",
+		"/Users/spaxe/dev/bvg.js/demo/index.js",
+		"/Users/spaxe/dev/bvg.js/demo/000-test.html",
+		"/Users/spaxe/dev/bvg.js/demo/001-hello.js",
+		"/Users/spaxe/dev/bvg.js/demo/000-test.js",
+		"/Users/spaxe/dev/bvg.js/package.json",
+		"/Users/spaxe/dev/bvg.js/.gitignore",
+		"/Users/spaxe/dev/bvg.js/.jshintrc",
+		"/Users/spaxe/dev/roguelike-universe/src/gx.js",
+		"/Users/spaxe/dev/roguelike-universe/src/bvg.js",
+		"/Users/spaxe/dev/bvg.js/demo/003-triswim.html",
+		"/Users/spaxe/dev/bvg.js/lib/jsonStyle.js",
+		"/Users/spaxe/dev/bvg.js/demo/index.html",
+		"/Users/spaxe/dev/bvg.js/index.html",
+		"/Users/spaxe/dev/bvg.js/demo/002-poly.html",
+		"/Users/spaxe/dev/bvg.js/bvg.js",
+		"/Users/spaxe/dev/bvg.js/demo/002-polyline.js",
+		"/Users/spaxe/dev/bvg.js/demo/002-polyline.html",
+		"/Users/spaxe/dev/bvg.js/test/testrunner.js",
+		"/Users/spaxe/dev/bvg.js/test/index.html",
+		"/Users/spaxe/dev/bvg.js/node_modules/mocha/lib/interfaces/common.js",
+		"/Users/spaxe/dev/bvg.js/demo/000-index.js",
+		"/Users/spaxe/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
+		"/Users/spaxe/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/Users/spaxe/dev/bvg.js/test/test.config.js",
+		"/Users/spaxe/dev/bvg.js/demo/000-index.html",
+		"/Users/spaxe/dev/bvg.js/src/bvg.js",
+		"/Users/spaxe/dev/bvg.js/test/mocha-bootstrap.js",
+		"/Users/spaxe/dev/bvg.js/Gruntfile.js",
+		"/Users/spaxe/dev/bvg.js/test/require.config.js",
+		"/Users/spaxe/dev/bvg.js/lib/cat.js",
+		"/Users/spaxe/dev/bvg.js/LICENSE",
+		"/Users/spaxe/dev/bvg.js/packages.json",
+		"/Users/spaxe/dev/bvg.js/README.md",
+		"/Users/spaxe/dev/bvg.js/lib/mic.py",
+		"/Users/spaxe/dev/bvg.js/demo/README.md",
+		"/Users/spaxe/dev/bvg.js/sketch.js",
+		"/Users/spaxe/dev/bvg.js/demo/001-hello.html",
+		"/Users/spaxe/dev/bvg.js/README.html",
+		"/Users/spaxe/dev/bvg.js/lib/observe-shim.js",
+		"/Users/spaxe/dev/bvg.js/mic.py",
+		"/Users/spaxe/dev/bvg.js/demo/hello.html",
+		"/Users/spaxe/dev/bvg.js/demo/hello.js",
+		"/Users/spaxe/dev/bvg.js/style.css",
+		"/Users/spaxe/dev/bvg.js/.git/hooks/pre-commit",
+		"/Users/spaxe/dev/roguelike-universe/src/fn.js",
+		"/Users/spaxe/dev/roguelike-universe/src/BVG.js",
+		"/Users/spaxe/dev/roguelike-universe/lib/observe-shim.js",
+		"/Users/spaxe/dev/roguelike-universe/generated/other-relations.json",
+		"/Users/spaxe/dev/roguelike-universe/src/svg.js",
+		"/Users/spaxe/dev/roguelike-universe/lib/svg.js",
+		"/Users/spaxe/dev/roguelike-universe/README.md",
+		"/Users/spaxe/dev/roguelike-universe/node_modules/live.js/live.js",
+		"/Users/spaxe/dev/roguelike-universe/src/sketch.js",
+		"/Users/spaxe/dev/roguelike-universe/.gitignore",
+		"/Users/spaxe/dev/roguelike-universe/LICENSE",
+		"/Users/spaxe/utils/git-deploy-master",
+		"/Users/spaxe/dev/roguelike-universe/deploy-gh-pages.sh",
+		"/Users/spaxe/dev/roguelike-universe/universe/sketch-svg.js",
+		"/Users/spaxe/dev/roguelike-universe/universe/libraries/fn.js",
+		"/Users/spaxe/dev/roguelike-universe/universe/index.html",
+		"/Users/spaxe/dev/roguelike-universe/universe/style.css",
+		"/Users/spaxe/dev/roguelike-universe/.jshintrc",
+		"/Users/spaxe/dev/roguelike-universe/universe/libraries/svg.js",
+		"/Users/spaxe/dev/roguelike-universe/data/game-sources.json",
+		"/Users/spaxe/dev/roguelike-universe/universe/.jshintrc",
+		"/Users/spaxe/dev/p5.js/.jshintrc",
+		"/Users/spaxe/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/Default (OSX).sublime-keymap",
+		"/Users/spaxe/dev/roguelike-universe/universe/libraries/p5.js",
+		"/Users/spaxe/dev/roguelike-universe/universe/libraries/live.js",
+		"/Users/spaxe/dev/roguelike-universe/data/corpus.json",
+		"/Users/spaxe/dev/roguelike-universe/tokeniser.py",
+		"/Users/spaxe/dev/roguelike-universe/datavis/data/roguelike-games.json",
+		"/Users/spaxe/dev/roguelike-universe/data/not-games.json",
+		"/Users/spaxe/dev/roguelike-universe/data/interviews.json",
+		"/Users/spaxe/dev/roguelike-universe/generated/games.json",
+		"/Users/spaxe/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/spaxe/utils/README.md",
+		"/Users/spaxe/dev/roguelike-universe/generated/processed-game-sources.json",
+		"/Users/spaxe/dev/roguelike-universe/data/game_sources.json",
+		"/Users/spaxe/dev/roguelike-universe/generated/processed-game-articles.json",
+		"/Users/spaxe/dev/roguelike-universe/generated/processed_game_sources.json",
+		"/Users/spaxe/dev/antiflux/assets/backdropShader.glsl",
+		"/Users/spaxe/dev/antiflux/assets/basicfontShader.glsl",
+		"/Users/spaxe/dev/antiflux/.hgignore",
+		"/Users/spaxe/dev/antiflux/src/com/uaa/antiflux/util/FileIO.java",
+		"/Users/spaxe/dev/antiflux/bin/AntiFlux.apk",
+		"/Users/spaxe/dev/antiflux/src/com/uaa/antiflux/engine/GLShader.java",
+		"/Users/spaxe/dev/antiflux/assets/audio/glazer.ogg",
+		"/usr/local/Cellar/elasticsearch/1.4.0/config/elasticsearch.yml",
+		"/Users/spaxe/Documents/OpenIoT/Instructions to Run OpenIoT VM-Release2.txt",
+		"/Users/spaxe/dev/festival-of-urbanism/header.region",
+		"/Users/spaxe/dev/festival-of-urbanism/highlight.region",
+		"/Users/spaxe/dev/festival-of-urbanism/muut.template.html",
+		"/Users/spaxe/dev/graph-drawing/tmp/dataset.py",
+		"/Users/spaxe/dev/festival-of-urbanism/nav.region",
+		"/Users/spaxe/dev/festival-of-urbanism/collections/blog.item",
+		"/Users/spaxe/dev/festival-of-urbanism/bg.region",
+		"/Users/spaxe/dev/festival-of-urbanism/collections/blog.list",
+		"/Users/spaxe/dev/festival-of-urbanism/resources.region",
+		"/Users/spaxe/dev/festival-of-urbanism/styles/base.less",
+		"/Users/spaxe/dev/festival-of-urbanism/main.region",
+		"/Users/spaxe/dev/festival-of-urbanism/contact.region",
+		"/Users/spaxe/dev/festival-of-urbanism/media.region",
+		"/Users/spaxe/dev/festival-of-urbanism/news.region",
+		"/Users/spaxe/dev/festival-of-urbanism/theme.region",
+		"/Users/spaxe/dev/festival-of-urbanism/collections/event.list",
+		"/Users/spaxe/dev/festival-of-urbanism/collections/event.conf",
+		"/Users/spaxe/dev/festival-of-urbanism/collections/event.item",
+		"/Users/spaxe/dev/festival-of-urbanism/collections/blog.conf",
+		"/Users/spaxe/dev/festival-of-urbanism/blocks/navigation.block",
+		"/Users/spaxe/dev/festival-of-urbanism/footer.region",
+		"/Users/spaxe/dev/festival-of-urbanism/template.conf",
+		"/Users/spaxe/dev/festival-of-urbanism/.gitignore",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Volumes/Spaxe 2TB/DESIGN.CODE.PLAN/Batch List/Batch List Processed.csv",
+		"/private/tmp/test/index.html",
+		"/Users/spaxe/Library/Caches/com.skype.skype/spaxe85/SKLocationDataCache/keyToPathMap",
+		"/Users/spaxe/Library/Caches/com.skype.skype/spaxe85/SKLocationAddressCache/keyToPathMap",
+		"/Users/spaxe/Library/Caches/com.skype.skype/net.hockeyapp.sdk.mac/BITCrashManager.plist",
+		"/Users/spaxe/Library/Caches/com.skype.skype/LookupIndexes/AddressBookPSTNLookupIndex",
+		"/Users/spaxe/dev/xavierho-squarespace/photography.region",
+		"/Users/spaxe/dev/xavierho-squarespace/template.conf",
+		"/Users/spaxe/dev/xavierho-squarespace/header.region",
+		"/Users/spaxe/dev/xavierho-squarespace/styles/base.less"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			".jshintrc",
+			"not-games.json",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"I made this game because",
+			"because",
+			"I made this game because",
+			"\\\"",
+			"mousemove",
+			"transf",
+			"transform",
+			"null",
+			"transform",
+			"line",
+			"getBVG",
+			"children",
+			"_children",
+			"_parent",
+			"transform",
+			"BVG.rgba",
+			"rgba",
+			"BVG.rgba",
+			"find",
+			"data",
+			"rect",
+			"data",
+			"elllipse",
+			"unobserve",
+			"stroke",
+			"arc",
+			"tag",
+			"noStroke",
+			"create",
+			"bvg",
+			"bvg.tag",
+			"text",
+			"tag",
+			"this.tag",
+			"tag",
+			"append",
+			"element",
+			"data",
+			"append",
+			"console.",
+			"beginAngle",
+			"content",
+			"strokeWidth",
+			"transform",
+			"xform",
+			"data",
+			"svg",
+			"constructor.name === 'object'",
+			"\\.data",
+			"data",
+			"append",
+			"appendChild",
+			"\\.tag",
+			"this.",
+			"{\n",
+			"data",
+			"fill",
+			"obj",
+			"cy",
+			"cx",
+			"obj",
+			"accessor",
+			"bvg",
+			"BVG",
+			"painting",
+			"y, r, r",
+			"rect",
+			"y, r",
+			"circle",
+			"inc",
+			"3*r",
+			"bvg.triangle",
+			"triangle",
+			"'triangle'",
+			"var ",
+			"mouseenter",
+			"noStro",
+			"observeNested",
+			"console",
+			"change.name",
+			"observeNested",
+			"addEvent",
+			"svg",
+			"attrs",
+			"paramanters",
+			"svgElements",
+			"creationMethods",
+			"factory",
+			"addFactoryMethods",
+			"bind",
+			"svg",
+			"stroke",
+			"()",
+			"document",
+			"define",
+			"polyline",
+			"requirejs",
+			"node",
+			"take",
+			"SVGEle",
+			"`\\*\\*",
+			"\\*\\*`",
+			"16",
+			"bindEqual",
+			"stroke",
+			"data",
+			"hex",
+			".')",
+			"BVG",
+			"svg",
+			"BVG(",
+			"data",
+			"bvg",
+			"Object",
+			"//",
+			"element",
+			"gxFrame",
+			"config.tag",
+			"activeFrame",
+			"querySe",
+			"\\.observe",
+			"observe",
+			"invent",
+			"SVG.G",
+			"group",
+			"SVG.group",
+			"group =",
+			"group"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"this._tag",
+			"`",
+			"\\n\"\\1\": true,",
+			"\"\\1\": true,",
+			"",
+			"\": true,",
+			"\"",
+			"",
+			"\"",
+			", ",
+			"\\1; ",
+			"\\1",
+			"\\1; ",
+			".beforetitle"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/spaxe/dev/i-made-this-game-because"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"common",
+				"node_modules/mocha/lib/interfaces/common.js"
+			],
+			[
+				"font",
+				"assets/basicfontShader.glsl"
+			],
+			[
+				"glsl",
+				"assets/backdropShader.glsl"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 172.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
